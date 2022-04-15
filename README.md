@@ -1,3 +1,7 @@
+this amazon clone is deployed live with 🔥 base (firebase!) check it out with the link below 🚀🚀🚀🚀🚀🚀🚀 press here ---> 🔗https://clone-25283.web.app/
+
+start the app runing with the cmd on console: 'npm start', runs the app in the development mode with the following link ---> 🔗http://localhost:3000 , so you can view it on your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
