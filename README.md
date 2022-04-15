@@ -1,4 +1,4 @@
-this amazon clone is deployed live with 🔥 base (firebase!) check it out with the link below 🚀🚀🚀🚀🚀🚀🚀 press here ---> 🔗https://clone-25283.web.app/
+🚀🚀🚀🚀🚀🚀🚀 this amazon clone is deployed live with 🔥 base (firebase!) check it out with the link below⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️  press here ---> 🔗https://clone-25283.web.app/
 
 # Getting Started with Create React App
 
