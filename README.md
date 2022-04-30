@@ -1,5 +1,6 @@
 ![Amazon-Jobs](https://user-images.githubusercontent.com/90146636/166106524-4e2189d1-4998-4689-a7d3-124491efdfec.png)
-![1_R4c8lHBHuH5qyqOtZb3h-w](https://user-images.githubusercontent.com/90146636/166106528-49436ae6-fda9-4905-ace2-5be0edcdb140.png)
+![1_R4c8lHBHuH5qyqOtZb3h-w](https://user-images.githubusercontent.com/90146636/166106528-49436ae6-fda9-4905-ace2-5be0edcdb140.png)![stripe-logo-4039DEE4FE-seeklogo com](https://user-images.githubusercontent.com/90146636/166106562-db4e3f8d-b32e-4947-b31f-34fc5b56fea1.jpg)
+
 
 ➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️ 🔗https://clone-25283.web.app/
 
